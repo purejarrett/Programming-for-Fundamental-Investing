@@ -1,0 +1,3 @@
+## Fundamental Investing Playlist: http://youtu.be/fBEMfugH3OA?list=PLQV...
+
+print("Let's get started.")
